@@ -1,0 +1,16 @@
+Git é um local onde a gente publica nossos repositorios de forma remota pública para que outros desenvolvedores possam ver;
+
+=>Para iniciar, devemos baixar o git no site: https://git-scm.com/ ;
+
+=>Depois de instalado, o git pode-se conferir se esta tudo ok digitando git no cmd, se estiver correto aparecera uma lista de comandos para usar no git;
+
+=>É necessario criar uma conta com usuario e senha no github.com;
+
+=>Escolhe-se uma pasta local para que as modificações realizadas no projeto sejam upadas via linha de comando para o servidor git;
+
+=>Dentro desta pasta local, clica com o botao direito e selecione, git bash here, logo em seguida para iniciar um projeto digite 'git init';
+
+=>Proxima coisa a fazer, é enviar o projeto que tem dentro da sua  pasta para o git, com o comando 'git add + nomedoarquivo';
+
+=>Conforme as mudanças forem executadas deverão ser realizados os commits
+com mensagens(obrigatorias), com o comando 'git commit -m "mensagem"'
