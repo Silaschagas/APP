@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+input {
+    width: 78%;
+    height: 30px;
+    border-radius: 10px;
+    font-family: 'Carter One' , cursive;
+}
+
+select{
+    width: 79.57%;
+    height: 32px;
+    border-radius: 8px;
+    font-family: 'Carter One' , cursive;
+    background-color: white;
+    color: gray;
+}
+
+button{
+    background-color: #4169E1;
+    color: white;
+    border-radius: 10px;
+    padding: 1%;
+    font-family: 'Carter One' , cursive;
+    margin: 10px;
+    width: 110px;
+}
+#create_user {
+    font-family: 'Carter One' , cursive;
+    padding-bottom: 5px;
+}
+
+#icon_create{
+    display: list-item;
+    padding: 6px;
+    width: 50px;
+    height: 50px;
+    margin-top: 17px;
+    padding-right: 12px;
+}
+
+#div_header {
+    display: flex;
+}
+
+#header {
+    padding-bottom: 40px;
+}
+
+#form_user {
+    padding-bottom: 20px;
+}
+
+#user_img {
+    background-color: transparent;
+}

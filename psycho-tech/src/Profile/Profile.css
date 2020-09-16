@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+input {
+    display: block;
+    margin: auto;
+}
+label{
+    font-family: 'Carter One' , cursive;
+}
+hr {
+    width: 90%;
+}
+#profile_img {
+    height: 60%;
+    width: 60%;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 10%;
+    
+}
+#backgroud_img_profile {
+    background-image: linear-gradient(rgb(200, 200, 255),#282c34); /*#55CDFC*/
+    height: 100%;
+    width: 90%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#fields {
+    padding-top: 20px;
+}
+
+.fields_form {
+    width: 90%;
+    height: 35px;
+    border-radius: 10px;
+}
+.fields_form_biography{
+    width: 90%;
+    border-radius: 10px;
+}
+#timeline {
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: 500px;
+    margin: 5%;
+}
+
+.timeline-text {
+    color: black;
+    font-family: 'Carter One' , cursive;
+}
+
+.timeline-element {
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    box-shadow: 7px 7px 8px rgba(50, 50, 50, 0.65);    
+}

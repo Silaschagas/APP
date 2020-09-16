@@ -1,0 +1,41 @@
+hr{
+    width: 98%;
+}
+.img-menu-icon {
+    display: block;
+    align-content: left;
+    height: 10%;
+    width: 18%;
+    float: left;
+    margin-top: -10px;
+}
+
+.div-main-header {
+    display: inline-block;
+    width: 100%;
+}
+
+.div-main {
+    width: 90%;
+}
+.menu-h2 {
+    margin-right: 17%;
+}
+
+.div-menu-icon {
+    width: 40%;
+}
+
+.div.menu.line {
+    width: 100% ;
+    display: inline-block;
+    vertical-align: top;
+}
+.div.menu.line {
+    width: 100% ;
+}
+
+.menu-icon {
+    width: 50%;
+    height: 50%;
+}
